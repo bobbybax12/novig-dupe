@@ -1,50 +1,10 @@
-# Welcome to your Expo app 👋
+# Novig Dupe
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43cd95cb-a5ac-41c2-8ed4-a0dcd541db36" width="180" />
+  <img src="https://github.com/user-attachments/assets/c5e2cd5b-676b-4619-af8f-381637a7c4d7" width="180" />
+  <img src="https://github.com/user-attachments/assets/66f5d0e5-51c2-4dbb-9b66-46730abbc57c" width="180" />
+  <img src="https://github.com/user-attachments/assets/5cdc14a8-60bd-4d41-b93f-88e0b8a7cb04" width="180" />
+  <img src="https://github.com/user-attachments/assets/36deffc9-a05b-47f3-9d50-19f40c6d6db6" width="180" />
+  <img src="https://github.com/user-attachments/assets/4c8b6be8-e2c3-48f0-bcf4-8ac39fe76d7c" width="180" />
+</p>
